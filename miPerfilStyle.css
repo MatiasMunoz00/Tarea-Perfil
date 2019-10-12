@@ -1,0 +1,36 @@
+
+body{
+    font-family: 'Times New Roman';
+
+}
+
+h1{
+ 
+    text-align: left;
+    }
+h2{
+  
+    text-align: left;
+}
+h6{
+    color: white;
+}
+.InfoBasik{
+    width: 75%;
+}
+.DivInteriorI{
+    width: 25%;
+    background-color:black;
+    padding: 20px;
+      
+}
+.Imagen {
+    width: 100%;
+}
+#top{
+    color: white;
+    text-align: left;
+}
+.ParrafoD{
+    background-color: slategray;
+}
